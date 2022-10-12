@@ -1,2 +1,3 @@
 # vizual-helm-chart
-Helm Charts to deploy and maintain Vizual app.
+Helm Charts to deploy and maintain Vizual app
+###
